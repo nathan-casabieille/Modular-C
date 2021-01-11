@@ -82,6 +82,12 @@ bool is_lt = lt(v1, v2);
 ```
 ---
 Containers and Iterators :
+
+A container is a holder object that stores a collection of other objects (its elements). They are implemented as class templates, which allows a great flexibility in the types supported as elements.
+
+The container manages the storage space for its elements and provides member functions to access them, either directly or through iterators (reference objects with similar properties to pointers).
+
+example of how to use the Array container :
 ```
 Object *array = new(Array, 10, Vertex, 0, 0, 0);
 Object *it = begin(array);
