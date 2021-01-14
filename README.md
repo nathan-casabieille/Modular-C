@@ -8,9 +8,9 @@ Here is a set of functions and structures allowing to realize oriented object pr
 
 ### Main Features
 - Class
-- Iterators
-- Containers
 - Encapsulation
+- Inheritance / Multiple inheritance
+- Containers / Iterators
 - Operators overloading
 
 ### Usage
